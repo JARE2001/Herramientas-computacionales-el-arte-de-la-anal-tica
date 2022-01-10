@@ -1,0 +1,842 @@
+Microsoft Windows [Versión 10.0.19042.1288]
+(c) Microsoft Corporation. Todos los derechos reservados.
+
+C:\Users\Jorge Ramirez>cd Repositories
+
+C:\Users\Jorge Ramirez\Repositories>cd TC1002S202210
+
+C:\Users\Jorge Ramirez\Repositories\TC1002S202210>dir
+ El volumen de la unidad C es Windows
+ El número de serie del volumen es: 5E22-C20B
+
+ Directorio de C:\Users\Jorge Ramirez\Repositories\TC1002S202210
+
+09/01/2022  12:36 p. m.    <DIR>          .
+09/01/2022  12:36 p. m.    <DIR>          ..
+09/01/2022  12:36 p. m.    <DIR>          cuarto
+               0 archivos              0 bytes
+               3 dirs  448,588,271,616 bytes libres
+
+C:\Users\Jorge Ramirez\Repositories\TC1002S202210>cd cuarto
+
+C:\Users\Jorge Ramirez\Repositories\TC1002S202210\cuarto>dir
+ El volumen de la unidad C es Windows
+ El número de serie del volumen es: 5E22-C20B
+
+ Directorio de C:\Users\Jorge Ramirez\Repositories\TC1002S202210\cuarto
+
+09/01/2022  12:36 p. m.    <DIR>          .
+09/01/2022  12:36 p. m.    <DIR>          ..
+09/01/2022  12:36 p. m.            10,244 .DS_Store
+09/01/2022  12:36 p. m.    <DIR>          CajaFuerte
+09/01/2022  12:36 p. m.             1,454 Cuadro1.txt
+09/01/2022  12:36 p. m.             3,871 Cuadro2.txt
+09/01/2022  12:36 p. m.             1,578 Cuadro3.txt
+09/01/2022  12:36 p. m.    <DIR>          Librero1
+09/01/2022  12:36 p. m.    <DIR>          Librero2
+09/01/2022  12:36 p. m.    <DIR>          MesaDeNoche
+               4 archivos         17,147 bytes
+               6 dirs  448,587,415,552 bytes libres
+
+C:\Users\Jorge Ramirez\Repositories\TC1002S202210\cuarto>cd MesaDeNoche
+
+C:\Users\Jorge Ramirez\Repositories\TC1002S202210\cuarto\MesaDeNoche>dir
+ El volumen de la unidad C es Windows
+ El número de serie del volumen es: 5E22-C20B
+
+ Directorio de C:\Users\Jorge Ramirez\Repositories\TC1002S202210\cuarto\MesaDeNoche
+
+09/01/2022  12:36 p. m.    <DIR>          .
+09/01/2022  12:36 p. m.    <DIR>          ..
+09/01/2022  12:36 p. m.               852 Carta.txt
+               1 archivos            852 bytes
+               2 dirs  448,584,863,744 bytes libres
+
+C:\Users\Jorge Ramirez\Repositories\TC1002S202210\cuarto\MesaDeNoche>type Carta.txt
+Queridos hijos:
+
+Si est├ín leyendo esto, es muy probable que no nos volvamos a ver y esta enfermedad que puso en mi contra a mi cuerpo ha ganado la batalla.
+
+S├® que no hemos sido la mejor familia y que posiblemente, ni siquiera hayan ido a despedirme por ├║ltima vez. No ha sido la mejor vida. Espero que lo que viene sea un poco mejor.
+
+La gran herencia, que todos saben que tengo y que todos han querido atrapar, est├í bien definida en mi testamento. ├ëste est├í guardado en esa caja fuerte que est├í al lado de la mesita de noche.
+
+Siempre olvido las cosas por lo que he escondido la clave en diferentes lugares de este cuarto. En aquellas cosas que m├ís he querido. Quien logre abrir la caja, puede quedarse con mi herencia (sean mis hijos o cualquiera).
+
+Mucha suerte a quien desee emprender esta b├║squeda. Hasta siempre.
+
+Atte.
+Yo
+C:\Users\Jorge Ramirez\Repositories\TC1002S202210\cuarto\MesaDeNoche>cd ..
+
+C:\Users\Jorge Ramirez\Repositories\TC1002S202210\cuarto>dir
+ El volumen de la unidad C es Windows
+ El número de serie del volumen es: 5E22-C20B
+
+ Directorio de C:\Users\Jorge Ramirez\Repositories\TC1002S202210\cuarto
+
+09/01/2022  12:36 p. m.    <DIR>          .
+09/01/2022  12:36 p. m.    <DIR>          ..
+09/01/2022  12:36 p. m.            10,244 .DS_Store
+09/01/2022  12:36 p. m.    <DIR>          CajaFuerte
+09/01/2022  12:36 p. m.             1,454 Cuadro1.txt
+09/01/2022  12:36 p. m.             3,871 Cuadro2.txt
+09/01/2022  12:36 p. m.             1,578 Cuadro3.txt
+09/01/2022  12:36 p. m.    <DIR>          Librero1
+09/01/2022  12:36 p. m.    <DIR>          Librero2
+09/01/2022  12:36 p. m.    <DIR>          MesaDeNoche
+               4 archivos         17,147 bytes
+               6 dirs  448,583,593,984 bytes libres
+
+C:\Users\Jorge Ramirez\Repositories\TC1002S202210\cuarto>type Cuadro1.txt
+:                       ..,,..    ...,,..
+      ,%,                .. ,#########::#########:,
+      :#%%,           ,,:',####%%%%%%##:`::%%%%####,
+     ,##%%%%,      ,##%% ,##%%%:::::''%' `::::%%####,
+     %###%%;;,   ,###%%:,##%%:::''    '  . .`:::%%###,
+    :####%%;;:: ,##%:' ,#%::''   .,,,..    . .`::%%%##,
+    %####%;;::,##%:' ,##%''  ,%%########%     . `:::%%##,
+    ######:::,##%:',####:  ,##%%:''     `%%,     .`::%%##,
+    :#####%:'##%:',#####' ,###%' ,%%%%,%%,'%,     . ::%%###,,..
+     #####%:,#%:'#######  %%:'%  %'  `%% %% %%,.     '::%%#######,
+     `####%,#%:',####### ::' %   ' ,%%%%%%, ::%%.    . '::%%######
+      `###'##%: ######## ,.   %%  %%,   ':: `:%%%  :  . .:::%%###'
+      ,,::,###  %%%%%### ::  % %% '%%%,.::: .:%%%   #.  . ::%%%#'
+,,,:::%%##:;#   `%%%%%## :% ,%, %   ':%%:'  #%%%' ,.:##.  ::%#'
+::%%#####% %%:::  :::%%% `%%,'%%     ..,,%####' :%# `::##, ''
+###%%::'###%::: .   `:::, `::,,%%%######%%'',::%##' ,:::%##
+''''   ,####%:::. .  `::%,     '':%%::' .,::%%%#'   :::%%%##,
+      :#%%'##%:::.  . . "%::,,.. ..,,,,::%%%###'  ,:%%%%####'
+     ,###%%'###%:::: . . `::::::::::%%%#####'   ,::%####:'
+     %###%%;'###%::::.   .`::%%%%%%%#####:'  ,,::%%##:'
+     ####%;:;'####%:::::.   `:%######::'  ,,:::%%###
+     %####;:;'######%%::::.           ,::::%%%####'
+     `####%;:'`#########%%:::....,,:::%%%#######'
+        ;#####;;'..;;:::#########::%%#########:"'
+                       ~~~~``````''''~~~
+C:\Users\Jorge Ramirez\Repositories\TC1002S202210\cuarto>type Cuadro2.txt
+                                ___..........__
+           _,...._           _."'_,.++8n.n8898n.`"._        _....._
+         .'       `".     _.'_.'" _.98n.68n. `"88n. `'.   ,"       `.
+        /        .   `. ,'. "  -'" __.68`""'""=._`+8.  `.'     .     `.
+       .       `   .   `.   ,d86+889" 8"""+898n, j8 9 ,"    .          \
+      :     '       .,   ,d"'"   _..d88b..__ `"868' .'  . '            :
+      :     .      .    _    ,n8""88":8"888."8.  "               '     :
+       \     , '  , . .88" ,8P'     ,d8. _   `"8n  `+.      `.   .     '
+        `.  .. .     d89' "  _..n689+^'8n88n.._ `+  . `  .  , '      ,'
+          `.  . , '  8'    .d88+"    j:""' `886n.    b`.  ' .' .   ."
+           '       , .j            ,d'8.         `  ."8.`.   `.  ':
+            .    .' n8    ,_      .f A 6.      ,..    `8b, '.   .'_
+          .' _    ,88'   :8"8    6'.d`i.`b.   d8"8     688.  ".    `'
+        ," .88  .d868  _         ,9:' `8.`8   "'  ` _  8+""      b   `,
+      _.  d8P  d'  .d :88.     .8'`j   ;+. "     n888b 8  .     ,88.   .
+     `   :68' ,8   88     `.   '   :   l `     .'   `" jb  .`   688b.   ',
+    .'  .688  6P   98  =+""`.      `   '       ,-"`+"'+88b 'b.  8689  `   '
+   ;  .'"888 .8;  ."+b. : `" ;               .: "' ; ,n  `8 q8, '88:       \
+   .   . 898  8:  :    `.`--"8.              d8`--' '   .d'  ;8  898        '
+  ,      689  9:  8._       ,68 .        .  :89    ..n88+'   89  689,' `     .
+  :     ,88'  88  `+88n  -   . .           .        " _.     6:  `868     '   '
+  , '  .68h.  68      `"    . . .        .  . .             ,8'   8P'      .   .
+  .      '88  'q.    _.f       .          .  .    '  .._,. .8"   .889        ,
+ .'     `898   _8hnd8p'  ,  . ..           . .    ._   `89,8P    j"'  _   `
+  \  `   .88, `q9868' ,9      ..           . .  .   8n .8 d8'   +'   n8. ,  '
+  ,'    ,+"88n  `"8 .8'     . ..           . .       `8688P"   9'  ,d868'   .  .
+  .      . `86b.    " .       .            ..          68'      _.698689;      :
+   . '     ,889_.n8. ,  ` .   .___      ___.     .n"  `86n8b._  `8988'b      .,6
+    '       q8689'`68.   . `  `:. `.__,' .:'  ,   +   +88 `"688n  `q8 q8.     88
+    , .   '  "     `+8 n    .   `:.    .;'   . '    . ,89           "  `q,    `8
+   .   .   ,        .    + c  ,   `:.,:"        , "   d8'               d8.    :
+    . '  8n           ` , .         ::    . ' "  .  .68h.             .8'`8`.  6
+     ,    8b.__. ,  .n8688b., .    .;:._     .___nn898868n.         n868b "`   8
+      `.  `6889868n8898886888688898"' "+89n88898868868889'         688898b    .8
+       :    q68   `""+8688898P ` " ' . ` '  ' `+688988P"          d8+8P'  `. .d8
+       ,     88b.       `+88.     `   ` '     .889"'           ,.88'        .,88
+        :    '988b        "88b.._  ,_      . n8p'           .d8"'      '     689
+        '.     "888n._,      `"8"+88888n.8,88:`8 .     _ .n88P'   .  `      ;88'
+         :8.     "q888.  .            "+888P"  "+888n,8n8'"      .  .     ,d986
+         :.`8:     `88986                          `q8"           ,      :688"
+         ;.  '8,      "88b .d                        '                  ,889'
+         :..   `6n      '8988                                         b.89p
+         :. .    '8.      `88b                                        988'
+         :. .      8b       `q8.        '                     . '   .d89      '
+         . .        `8:       `86n,.       " . ,        , "        ,98P      ,
+         .. .         '6n.       +86b.        .      .         _,.n88'     .
+           .            `"8b.      'q98n.        ,     .  _..n868688'          .
+          ' . .            `"98.     `8868.       .  _.n688868898p"            d
+           . .                '88.      "688.       q89888688868"            ,86
+         mh '. .                 88.     `8898        " .889"'              .988
+C:\Users\Jorge Ramirez\Repositories\TC1002S202210\cuarto>type Cuadro3.txt
+          .          .           .     .                .       .
+  .      .      *           .       .          .                       .
+                 .       .   . *            "Go where you Will...
+  .       ____     .      . .            .    I'll always love you."
+         >>         .        .               .
+ .   .  /WWWI; \  .       .    .  ____               .         .     .
+  *    /WWWWII; \=====;    .     /WI; \   *    .        /\_             .
+  .   /WWWWWII;..      \_  . ___/WI;:. \     .        _/M; \    .   .         .
+     /WWWWWILLIi;..      \__/WWWILLI:.. \____ .   .  /MMI:  \   * .
+ . _/WWWWWILLi;;;:...:   ;\WWWWWWILLII;.     \     /MMWII;   \    .  .     .
+  /WWWWWIWIiii;;;.:.. :   ;\WWWWWILL;;;::     \___/MMWILLI;   \              .
+ /WWWWWILLIiii;;::.... :   ;|WWWWWWII;;::.:      :;IMWILLII;:   \___     *
+/WWWWWWWWWILLIIWIlli;;::;..;\WWWWWWILL;;;:::...    ;IMIII;;     ::  \     .
+WWWWWWWWWILLIIIIIIii;;::.;..;\WWWWWWWWILLII;;..  :;IMIII;:::     :    \
+WWWWWWWWWWWWWILLIIIii;;::..;..;\WWWWWWWWILLI;::; :::::::::.....::       \
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%XXXXXXX
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%XXXXXXXXXX
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%XXXXXXXXXXXXX
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%XXXXXXXXXXXXXXXXX
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%XXXXXXXXXXXXXXXXXXXX
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%XXXXXXXXXXXXXXXXXXXXXXXXXX
+C:\Users\Jorge Ramirez\Repositories\TC1002S202210\cuarto>dir
+ El volumen de la unidad C es Windows
+ El número de serie del volumen es: 5E22-C20B
+
+ Directorio de C:\Users\Jorge Ramirez\Repositories\TC1002S202210\cuarto
+
+09/01/2022  12:36 p. m.    <DIR>          .
+09/01/2022  12:36 p. m.    <DIR>          ..
+09/01/2022  12:36 p. m.            10,244 .DS_Store
+09/01/2022  12:36 p. m.    <DIR>          CajaFuerte
+09/01/2022  12:36 p. m.             1,454 Cuadro1.txt
+09/01/2022  12:36 p. m.             3,871 Cuadro2.txt
+09/01/2022  12:36 p. m.             1,578 Cuadro3.txt
+09/01/2022  12:36 p. m.    <DIR>          Librero1
+09/01/2022  12:36 p. m.    <DIR>          Librero2
+09/01/2022  12:36 p. m.    <DIR>          MesaDeNoche
+               4 archivos         17,147 bytes
+               6 dirs  448,579,297,280 bytes libres
+
+C:\Users\Jorge Ramirez\Repositories\TC1002S202210\cuarto>cd Librero1
+
+C:\Users\Jorge Ramirez\Repositories\TC1002S202210\cuarto\Librero1>dir
+ El volumen de la unidad C es Windows
+ El número de serie del volumen es: 5E22-C20B
+
+ Directorio de C:\Users\Jorge Ramirez\Repositories\TC1002S202210\cuarto\Librero1
+
+09/01/2022  12:36 p. m.    <DIR>          .
+09/01/2022  12:36 p. m.    <DIR>          ..
+09/01/2022  12:36 p. m.             6,148 .DS_Store
+09/01/2022  12:36 p. m.            13,172 Libro1.txt
+09/01/2022  12:36 p. m.               171 Libro2.txt
+09/01/2022  12:36 p. m.               201 Libro3.txt
+09/01/2022  12:36 p. m.             2,978 Libro4.txt
+09/01/2022  12:36 p. m.               146 Objeto1.txt
+               6 archivos         22,816 bytes
+               2 dirs  448,579,096,576 bytes libres
+
+C:\Users\Jorge Ramirez\Repositories\TC1002S202210\cuarto\Librero1>type Libro1.txt
+*******************************
+Poetry Book
+*******************************
+
+
+A Prayer for my Daughter
+W. B. Yeats
+Once more the storm is howling, and half hid
+Under this cradle-hood and coverlid
+My child sleeps on. There is no obstacle
+But Gregory's wood and one bare hill
+Whereby the haystack- and roof-levelling wind,
+Bred on the Atlantic, can be stayed;
+And for an hour I have walked and prayed
+Because of the great gloom that is in my mind.
+
+I have walked and prayed for this young child an hour
+And heard the sea-wind scream upon the tower,
+And under the arches of the bridge, and scream
+In the elms above the flooded stream;
+Imagining in excited reverie
+That the future years had come,
+Dancing to a frenzied drum,
+Out of the murderous innocence of the sea.
+
+May she be granted beauty and yet not
+Beauty to make a stranger's eye distraught,
+Or hers before a looking-glass, for such,
+Being made beautiful overmuch,
+Consider beauty a sufficient end,
+Lose natural kindness and maybe
+The heart-revealing intimacy
+That chooses right, and never find a friend.
+
+Helen being chosen found life flat and dull
+And later had much trouble from a fool,
+While that great Queen, that rose out of the spray,
+Being fatherless could have her way
+Yet chose a bandy-legg├¿d smith for man.
+It's certain that fine women eat
+A crazy salad with their meat
+Whereby the Horn of Plenty is undone.
+
+In courtesy I'd have her chiefly learned;
+Hearts are not had as a gift but hearts are earned
+By those that are not entirely beautiful;
+Yet many, that have played the fool
+For beauty's very self, has charm made wise,
+And many a poor man that has roved,
+Loved and thought himself beloved,
+From a glad kindness cannot take his eyes.
+
+May she become a flourishing hidden tree
+That all her thoughts may like the linnet be,
+And have no business but dispensing round
+Their magnanimities of sound,
+Nor but in merriment begin a chase,
+Nor but in merriment a quarrel.
+O may she live like some green laurel
+Rooted in one dear perpetual place.
+
+My mind, because the minds that I have loved,
+The sort of beauty that I have approved,
+Prosper but little, has dried up of late,
+Yet knows that to be choked with hate
+May well be of all evil chances chief.
+If there's no hatred in a mind
+Assault and battery of the wind
+Can never tear the linnet from the leaf.
+
+An intellectual hatred is the worst,
+So let her think opinions are accursed.
+Have I not seen the loveliest woman born
+Out of the mouth of Plenty's horn,
+Because of her opinionated mind
+Barter that horn and every good
+By quiet natures understood
+For an old bellows full of angry wind?
+
+Considering that, all hatred driven hence,
+The soul recovers radical innocence
+And learns at last that it is self-delighting,
+Self-appeasing, self-affrighting,
+And that its own sweet will is Heaven's will;
+She can, though every face should scowl
+And every windy quarter howl
+Or every bellows burst, be happy still.
+
+And may her bridegroom bring her to a house
+Where all's accustomed, ceremonious;
+For arrogance and hatred are the wares
+Peddled in the thoroughfares.
+How but in custom and in ceremony
+Are innocence and beauty born?
+Ceremony's a name for the rich horn,
+And custom for the spreading laurel tree.
+
+
+
+The Red Wheelbarrow  Launch Audio in a New Window
+BY WILLIAM CARLOS WILLIAMS
+so much depends
+upon
+
+a red wheel
+barrow
+
+glazed with rain
+water
+
+beside the white
+chickens
+
+
+Tom O' Bedlam's Song
+anonymous ballad, circa 1620
+
+From the hag and hungry goblin
+That into rags would rend ye,
+The spirit that stands by the naked man
+In the Book of Moons, defend ye.
+That of your five sound senses
+You never be forsaken,
+Nor wander from your selves with Tom
+Abroad to beg your bacon,
+
+
+********La clave son las iniciales de los nombres de mis tres hijos********
+
+
+    While I do sing, Any food, any feeding,
+    Feeding, drink or clothing;
+    Come dame or maid, be not afraid,
+    Poor Tom will injure nothing.
+
+Of thirty bare years have I
+Twice twenty been enrag├¿d,
+And of forty been three times fifteen
+In durance soundly cag├¿d.
+On the lordly lofts of Bedlam
+With stubble soft and dainty,
+Brave bracelets strong, sweet whips, ding-dong,
+With wholesome hunger plenty,
+    And now I sing, Any food, any feeding,
+    Feeding, drink or clothing;
+    Come dame or maid, be not afraid,
+    Poor Tom will injure nothing.
+
+With a thought I took for Maudlin,
+And a cruse of cockle pottage,
+With a thing thus tall, sky bless you all,
+I befell into this dotage.
+I slept not since the Conquest,
+Till then I never wak├¿d,
+Till the roguish boy of love where I lay
+Me found and stript me nak├¿d.
+    While I do sing, Any food, any feeding,
+    Feeding, drink or clothing;
+    Come dame or maid, be not afraid,
+    Poor Tom will injure nothing.
+
+When I short have shorn my sow's face
+And swigged my horny barrel,
+In an oaken inn, I pound my skin
+As a suit of gilt apparel;
+The moon's my constant mistress,
+And the lovely owl my marrow;
+The flaming drake and the night crow make
+Me music to my sorrow.
+    While I do sing, Any food, any feeding,
+    Feeding, drink or clothing;
+    Come dame or maid, be not afraid,
+    Poor Tom will injure nothing.
+
+The palsy plagues my pulses
+When I prig your pigs or pullen
+Your culvers take, or matchless make
+Your Chanticleer or Sullen.
+When I want provant, with Humphry
+I sup, and when benighted,
+I repose in Paul's with waking souls,
+Yet never am affrighted.
+    But I do sing, Any food, any feeding,
+    Feeding, drink or clothing;
+    Come dame or maid, be not afraid,
+    Poor Tom will injure nothing.
+
+I know more than Apollo,
+For oft when he lies sleeping
+I see the stars at mortal wars
+In the wounded welkin weeping.
+The moon embrace her shepherd,
+And the Queen of Love her warrior,
+While the first doth horn the star of morn,
+And the next the heavenly Farrier.
+    While I do sing, Any food, any feeding,
+    Feeding, drink or clothing;
+    Come dame or maid, be not afraid,
+    Poor Tom will injure nothing.
+
+The Gypsies, Snap and Pedro,
+Are none of Tom's comradoes,
+The punk I scorn, and the cutpurse sworn
+And the roaring boy's bravadoes.
+The meek, the white, the gentle,
+Me handle not nor spare not;
+But those that cross Tom Rynosseross
+Do what the panther dare not.
+    Although I sing, Any food, any feeding,
+    Feeding, drink or clothing;
+    Come dame or maid, be not afraid,
+    Poor Tom will injure nothing.
+
+With an host of furious fancies,
+Whereof I am commander,
+With a burning spear and a horse of air
+To the wilderness I wander.
+By a knight of ghosts and shadows
+I summoned am to tourney
+Ten leagues beyond the wide world's end:
+Methinks it is no journey.
+    Yet I will sing, Any food, any feeding,
+    Feeding, drink or clothing;
+    Come dame or maid, be not afraid,
+    Poor Tom will injure nothing.
+
+
+
+The Highwayman
+by Alfred Noyes
+
+The wind was a torrent of darkness among the gusty trees,
+The moon was a ghostly galleon tossed upon cloudy seas,
+The road was a ribbon of moonlight over the purple moor,
+And the highwayman came ridingÔÇö
+                      RidingÔÇöridingÔÇö
+The highwayman came riding, up to the old inn-door.
+
+He'd a French cocked-hat on his forehead, a bunch of lace at his chin,
+A coat of the claret velvet, and breeches of brown doe-skin;
+They fitted with never a wrinkle: his boots were up to the thigh!
+And he rode with a jewelled twinkle,
+                      His pistol butts a-twinkle,
+His rapier hilt a-twinkle, under the jewelled sky.
+
+Over the cobbles he clattered and clashed in the dark inn-yard,
+And he tapped with his whip on the shutters, but all was locked and barred;
+He whistled a tune to the window, and who should be waiting there
+But the landlord's black-eyed daughter,
+                      Bess, the landlord's daughter,
+Plaiting a dark red love-knot into her long black hair.
+
+And dark in the dark old inn-yard a stable-wicket creaked
+Where Tim the ostler listened; his face was white and peaked;
+His eyes were hollows of madness, his hair like mouldy hay,
+But he loved the landlord's daughter,
+                      The landlord's red-lipped daughter,
+Dumb as a dog he listened, and he heard the robber sayÔÇö
+
+"One kiss, my bonny sweetheart, I'm after a prize to-night,
+But I shall be back with the yellow gold before the morning light;
+Yet, if they press me sharply, and harry me through the day,
+Then look for me by moonlight,
+                      Watch for me by moonlight,
+I'll come to thee by moonlight, though hell should bar the way."
+
+He rose upright in the stirrups; he scarce could reach her hand,
+But she loosened her hair i' the casement! His face burnt like a brand
+As the black cascade of perfume came tumbling over his breast;
+And he kissed its waves in the moonlight,
+                      (Oh, sweet, black waves in the moonlight!)
+Then he tugged at his rein in the moonlight, and galloped away to the West.
+
+He did not come in the dawning; he did not come at noon;
+And out o' the tawny sunset, before the rise o' the moon,
+When the road was a gypsy's ribbon, looping the purple moor,
+A red-coat troop came marchingÔÇö
+                      MarchingÔÇömarchingÔÇö
+King George's men came matching, up to the old inn-door.
+
+They said no word to the landlord, they drank his ale instead,
+But they gagged his daughter and bound her to the foot of her narrow bed;
+Two of them knelt at her casement, with muskets at their side!
+There was death at every window;
+                      And hell at one dark window;
+For Bess could see, through her casement, the road that he would ride.
+
+They had tied her up to attention, with many a sniggering jest;
+They had bound a musket beside her, with the barrel beneath her breast!
+"Now, keep good watch!" and they kissed her.
+                      She heard the dead man sayÔÇö
+Look for me by moonlight;
+                      Watch for me by moonlight;
+I'll come to thee by moonlight, though hell should bar the way!
+
+She twisted her hands behind her; but all the knots held good!
+She writhed her hands till her fingers were wet with sweat or blood!
+They stretched and strained in the darkness, and the hours crawled by like years,
+Till, now, on the stroke of midnight,
+                      Cold, on the stroke of midnight,
+The tip of one finger touched it! The trigger at least was hers!
+
+The tip of one finger touched it; she strove no more for the rest!
+Up, she stood up to attention, with the barrel beneath her breast,
+She would not risk their hearing; she would not strive again;
+For the road lay bare in the moonlight;
+                      Blank and bare in the moonlight;
+And the blood of her veins in the moonlight throbbed to her love's refrain .
+
+Tlot-tlot; tlot-tlot! Had they heard it? The horse-hoofs ringing clear;
+Tlot-tlot, tlot-tlot, in the distance? Were they deaf that they did not hear?
+Down the ribbon of moonlight, over the brow of the hill,
+The highwayman came riding,
+                      Riding, riding!
+The red-coats looked to their priming! She stood up, straight and still!
+
+Tlot-tlot, in the frosty silence! Tlot-tlot, in the echoing night!
+Nearer he came and nearer! Her face was like a light!
+Her eyes grew wide for a moment; she drew one last deep breath,
+Then her finger moved in the moonlight,
+                      Her musket shattered the moonlight,
+Shattered her breast in the moonlight and warned himÔÇöwith her death.
+
+He turned; he spurred to the West; he did not know who stood
+Bowed, with her head o'er the musket, drenched with her own red blood!
+Not till the dawn he heard it, his face grew grey to hear
+How Bess, the landlord's daughter,
+                      The landlord's black-eyed daughter,
+Had watched for her love in the moonlight, and died in the darkness there.
+
+Back, he spurred like a madman, shrieking a curse to the sky,
+With the white road smoking behind him and his rapier brandished high!
+Blood-red were his spurs i' the golden noon; wine-red was his velvet coat,
+When they shot him down on the highway,
+                      Down like a dog on the highway,
+And he lay in his blood on the highway, with the bunch of lace at his throat.
+
+And still of a winter's night, they say, when the wind is in the trees,
+When the moon is a ghostly galleon tossed upon cloudy seas,
+When the road is a ribbon of moonlight over the purple moor,
+A highwayman comes ridingÔÇö
+                      RidingÔÇöridingÔÇö
+A highwayman comes riding, up to the old inn-door.
+
+Over the cobbles he clatters and clangs in the dark inn-yard;
+He taps with his whip on the shutters, but all is locked and barred;
+He whistles a tune to the window, and who should be waiting there
+But the landlord's black-eyed daughter,
+                      Bess, the landlord's daughter,
+Plaiting a dark red love-knot into her long black hair.
+C:\Users\Jorge Ramirez\Repositories\TC1002S202210\cuarto\Librero1>type Libro2.txt
+***********************************
+C├│mo usar la terminal en Mac
+***********************************
+
+https://www.makeuseof.com/tag/mac-terminal-commands-cheat-sheet/
+C:\Users\Jorge Ramirez\Repositories\TC1002S202210\cuarto\Librero1>type Libro3.txt
+**********************************
+Command prompt para Windows
+**********************************
+
+
+https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands
+C:\Users\Jorge Ramirez\Repositories\TC1002S202210\cuarto\Librero1>type Libro4.txt
+******************************
+Libro de Origami
+******************************
+
+
+Me gustaba mucho hacer origami contigo, Nadia
+
+
+-------------- Akira Yoshizawa's Beautiful Mouse ---------------
+
+   -1-               -2-            -3-               -4-
+ ________           ____     \.  in progress
+|        |         /\.  |     \`\. ________       \
+|        |        / .'`\|      \  `\.      |       \\.    ./|
+|        |       /.'_,-'        \    `\.   |        \ `\./' |    Rotate
+|________|      /,-'             `--... `\.|         \.. `\.|
+                                       `````            `````
+Fold 2 edges         Rabbits fold the long flap while
+to center            mountain folding the single layer
+
+----------------------------------------------------------------
+
+         -5-                  -6-      (A)         -7-
+                                     /;
+                                   /' )     \.
+         ,,--'^\,          /-'^\,/'   (      \`\  /-'^\,_---~(
+   ,,--''        `,       /      ``,,  )      \ `/      ``,,  )  Fold the
+./__,.,,__.,,_.._..',    /.,,_.._..__`\(       \/.,,_.._..__`\(  ear flaps
+              |    /     \   \       ~~(B)      `~          ~~   up on both
+              |  ./       `\  \                                  sides
+              | /           `\ \    Reverse the head
+              |/              `\\   down again so (A)
+                                `\  comes near (B)
+     Reverse fold the head
+     up and the tail down
+
+----------------------------------------------------------------
+
+                      -8-
+                                         (A)
+  \.           ,,--^\,_ \~^~~^^~~^~^~~^^/|
+   \`\.     /''       ``,\            /' (
+    \  `\. /              \         /'   (
+     \    /                \      /'      )
+      \  /                  \   /' ``,,   )
+       \/,_.._..__  __,,_._._\/'       `\.|
+        \_/       ~~         (B)          `
+
+    Thin the tail. Outside reverse fold the nose,
+    bringing point (A) on both sides down near (B)
+
+----------------------------------------------------------------
+
+                       -9-
+\-.
+ `\`\.           ,,--^\,_ \-..
+   `\ `\.     /''       ``,\  `(``--__
+     `\  `\. /              \  (      '\.
+       `\   /                \  )        \
+         `\/                  \ )         \.
+          /,_.._..__  __,,_._._\|___.._,,_,,\
+                    ~~
+
+          Tuck the nose in, thin the jaw with
+          reverse folds, and spread the ears
+
+----------------------------------------------------------------
+
+                       -10-
+\-.
+ `\`\.           ,,--^\,_   /\
+   `\ `\.     /''       ``,(  )'``--__
+     `\  `\. /              \) \      '\.
+       `\   /                \ |         \
+         `\/                  \| ___.._,,/
+          /,_.._..__  __,,_._._\|
+                    ~~
+
+            The Finished Yoshizawa Mouse.
+
+
+C:\Users\Jorge Ramirez\Repositories\TC1002S202210\cuarto\Librero1>cd ..
+
+C:\Users\Jorge Ramirez\Repositories\TC1002S202210\cuarto>cd Librero2
+
+C:\Users\Jorge Ramirez\Repositories\TC1002S202210\cuarto\Librero2>dir
+ El volumen de la unidad C es Windows
+ El número de serie del volumen es: 5E22-C20B
+
+ Directorio de C:\Users\Jorge Ramirez\Repositories\TC1002S202210\cuarto\Librero2
+
+09/01/2022  12:36 p. m.    <DIR>          .
+09/01/2022  12:36 p. m.    <DIR>          ..
+09/01/2022  12:36 p. m.             6,148 .DS_Store
+09/01/2022  12:36 p. m.             1,073 Objeto1.txt
+09/01/2022  12:36 p. m.               593 Objeto2.txt
+09/01/2022  12:36 p. m.               533 Objeto3.txt
+09/01/2022  12:36 p. m.               495 Objeto4.txt
+               5 archivos          8,842 bytes
+               2 dirs  448,579,358,720 bytes libres
+
+C:\Users\Jorge Ramirez\Repositories\TC1002S202210\cuarto\Librero2>type Objeto1.txt
+                        (
+                          )     (
+                   ___...(-------)-....___
+               .-""       )    (          ""-.
+         .-'``'|-._             )         _.-|
+        /  .--.|   `""---...........---""`   |
+       /  /    |                             |
+       |  |    |                             |
+        \  \   |                             |
+         `\ `\ |                             |
+           `\ `|                             |
+           _/ /;                             ;
+          (__/  \                           /
+       _..---""` \                         /`""---.._
+    .-'           \                       /          '-.
+   :               `-.__             __.-'              :
+   :                  ) ""---...---"" (                 :
+    '._               `"--...___...--"`              _.'
+  jgs \""--..__                              __..--""/
+       '._     """----.....______.....----"""     _.'
+          `""--..,,_____            _____,,..--""`
+                        `"""----"""`
+C:\Users\Jorge Ramirez\Repositories\TC1002S202210\cuarto\Librero2>type Objeto2.txt
+          ___   .--.
+    .--.-"   "-' .- |
+   / .-,`          .'
+   \   `           \
+    '.            ! \
+      |     !  .--.  |
+      \        '--'  /.____
+     /`-.     \__,'.'      `\
+  __/   \`-.____.-' `\      /
+  | `---`'-'._/-`     \----'    _
+  |,-'`  /             |    _.-' `\
+ .'     /              |--'`     / |
+/      /\              `         | |
+|   .\/  \      .--. __          \ |
+ '-'      '._       /  `\         /
+    jgs      `\    '     |------'`
+               \  |      |
+                \        /
+                 '._  _.'
+                    ``
+C:\Users\Jorge Ramirez\Repositories\TC1002S202210\cuarto\Librero2>type Objeto3.txt
+  ,-"```````"-,
+ ;    .-=-.    ;
+ ',  /=====\  ,'
+   "=|/"""\|="
+     |\^ ^/|
+     ||'-'||
+    / | _ | \
+   /\/ /|\ \/\
+  | \_/ | \_/ |
+  |   |/ \|   |
+   \__|   |__/
+    |       |  |
+    |       | \'/
+    |       |-=*=
+    |       | /.\
+    |       |  |
+    |       |
+    |   .-------------,   |
+    |  <               >  |
+    |   \`"""""""""""`/   |
+    |    \San Ignacio/____|
+jgs |;,;,;>         <_/\_/
+         /           \
+         `"""""""""""`
+
+Para mi hijo el de en medio.
+C:\Users\Jorge Ramirez\Repositories\TC1002S202210\cuarto\Librero2>type Objeto4.txt
+        _____                   /|
+        |   \      ____        / |
+  __    |    \    /\   |      /  ;
+ /\  \  |     \  /  \  |     /  ;
+/,'\  \ |      \/  : \ |    /   ;
+~  ;   \|      /   :  \|   /   ;
+   |    \     /   :'  |   /    ;
+   |     \   /    :   |  /    ;
+   |      \ /    :'   | /     ;
+   |       /     :    |/     ;
+   |      /     :'    |      ;
+    \    /      :     |     ;
+     \  /      :'     |     ;
+      \       :'      |    ;
+       \______:_______|___;
+C:\Users\Jorge Ramirez\Repositories\TC1002S202210\cuarto\Librero2>cd ..
+
+C:\Users\Jorge Ramirez\Repositories\TC1002S202210\cuarto>cd CajaFuerte
+
+C:\Users\Jorge Ramirez\Repositories\TC1002S202210\cuarto\CajaFuerte>cd w
+
+C:\Users\Jorge Ramirez\Repositories\TC1002S202210\cuarto\CajaFuerte\w>cd i
+
+C:\Users\Jorge Ramirez\Repositories\TC1002S202210\cuarto\CajaFuerte\w\i>cd n
+
+C:\Users\Jorge Ramirez\Repositories\TC1002S202210\cuarto\CajaFuerte\w\i\n>dir
+ El volumen de la unidad C es Windows
+ El número de serie del volumen es: 5E22-C20B
+
+ Directorio de C:\Users\Jorge Ramirez\Repositories\TC1002S202210\cuarto\CajaFuerte\w\i\n
+
+09/01/2022  12:36 p. m.    <DIR>          .
+09/01/2022  12:36 p. m.    <DIR>          ..
+09/01/2022  12:36 p. m.             6,148 .DS_Store
+09/01/2022  12:36 p. m.             2,399 Open.txt
+               2 archivos          8,547 bytes
+               2 dirs  448,578,764,800 bytes libres
+
+C:\Users\Jorge Ramirez\Repositories\TC1002S202210\cuarto\CajaFuerte\w\i\n>type Open.txt
+
+
+Felicidades, la herencia es tuya.
+
+Para completar la actividad y obtener tu calificaci├│n, realiza lo siguiente:
+1) Crea un repositorio nuevo para esta Semana Tec. Vamos a utilizarlo durante toda la semana para las actividades que hagamos.
+2) Crea una carpeta que se llame "Actividad 1"
+3) Saca im├ígenes de la terminal con los comandos que utilizaste para descubrir la respuesta al acertijo y practicar los que aprendimos en la sesi├│n. Empieza por el comando de clonaci├│n del repositorio.
+4) Coloca estas im├ígenes en la carpeta del punto 2
+5) En la misma carpeta, coloca tu octocat.
+6) Haz el commit y el push para subir estos archivos a al repositorio creado en el punto 1.
+7) Como comentario a esta actividad, incluye la liga de tu repositorio para que pueda acceder a calificarlo.
+
+Espero te hayas divertido y aprendido mucho. =D
+
+
+
+*******************************************************************************
+          |                   |                  |                     |
+ _________|________________.=""_;=.______________|_____________________|_______
+|                   |  ,-"_,=""     `"=.|                  |
+|___________________|__"=._o`"-._        `"=.______________|___________________
+          |                `"=._o`"=._      _`"=._                     |
+ _________|_____________________:=._o "=._."_.-="'"=.__________________|_______
+|                   |    __.--" , ; `"=._o." ,-"""-._ ".   |
+|___________________|_._"  ,. .` ` `` ,  `"-._"-._   ". '__|___________________
+          |           |o`"=._` , "` `; .". ,  "-._"-._; ;              |
+ _________|___________| ;`-.o`"=._; ." ` '`."\` . "-._ /_______________|_______
+|                   | |o;    `"-.o`"=._``  '` " ,__.--o;   |
+|___________________|_| ;     (#) `-.o `"=.`_.--"_o.-; ;___|___________________
+____/______/______/___|o;._    "      `".o|o_.--"    ;o;____/______/______/____
+/______/______/______/_"=._o--._        ; | ;        ; ;/______/______/______/_
+____/______/______/______/__"=._o--._   ;o|o;     _._;o;____/______/______/____
+/______/______/______/______/____"=._o._; | ;_.--"o.--"_/______/______/______/_
+____/______/______/______/______/_____"=.o|o_.--""___/______/______/______/____
+/______/______/______/______/______/______/______/______/______/______/[TomekK]
+*******************************************************************************
+C:\Users\Jorge Ramirez\Repositories\TC1002S202210\cuarto\CajaFuerte\w\i\n>
