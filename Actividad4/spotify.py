@@ -79,3 +79,27 @@ for i in range(len(centroids)):
     plt.scatter(centroids[i][0],centroids[i][1],marker="*",c="red")
 
 plt.show()
+
+
+test = df[["acousticness","energy"]]
+test = test.dropna(axis = 0, how = 'any')
+
+kmeans = KMeans(n_clusters=3).fit(test)
+centroids = kmeans.cluster_centers_
+print(centroids)
+
+# Predicciones (cuál es la clase) de acuerdo a los centros calculados
+
+cla = kmeans.predict(test)                   # obtiene las clases de los datos iniciales
+
+# # Predicción para un nuevo dato
+# data = {'km': ['100'], 'vehicle_year': [2002]}
+# newdf = pd.DataFrame(data)  
+# print(kmeans.predict(newdf))
+
+
+plt.scatter(df["acousticness"],df["energy"],c=cla)
+for i in range(len(centroids)):
+    plt.scatter(centroids[i][0],centroids[i][1],marker="*",c="red")
+
+plt.show()
